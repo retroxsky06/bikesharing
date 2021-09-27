@@ -42,6 +42,11 @@ The bike-sharing analysis begins with a [general overview](https://public.tablea
 
 
 ## Summary
+This analysis provided an opportunity to gain insight on a business prospect in Des Moines, Iowa by reviewing NYC bike-sharing data.  It was found that there were over 2 million riders in the month of August 2018, and that the majority of NYC CitiBike riders identified as Male.
+
+Further research is needed to determine the viability of a Des Moines ride-sharing business.  
+
+### Additional Suggestions
 
 
 
