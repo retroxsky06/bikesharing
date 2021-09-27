@@ -11,11 +11,7 @@ The purpose of this project is to examine New York City's bike-sharing data (Cit
 - Pandas DataFrame
 
 ## Formating and Converting CitiBike Data Set
-In order to create various visualizations needed for this analysis, it was necessary to convert the datatype of the column "tripduration" from integer to string.  To transform the "tripduration" data, the following steps took place:
-
-a. The August 2018 CitiBike CSV data file was read and converted into a pandas dataframe:
-
-```
+In order to create various visualizations needed for this analysis, it was necessary to reformat the data and convert the datatype of the column "tripduration" from integer to string.  Jupyter notebook was utilized for this undertaking, and the process can be found [here]().
 
 
 
