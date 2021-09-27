@@ -15,8 +15,9 @@ In order to create various visualizations needed for this analysis, it was neces
 
 [Click this link to view NYC CitiBike Business Proposal](https://public.tableau.com/app/profile/vanessa.aczon/viz/BikesharingAnalysis_16326408649250/CitiBikeAnalysis?publish=yes)
 
-This section outlines the business proposal including descriptions and data visualizations of the data. The bike-sharing analysis begins with a general overview, which highlights the number of rides, gender breakdown, user type and the top starting locations for rides in the month of August 2018.  The dashboard is intended to provide a brief overview of the data.
+This section outlines the business proposal including descriptions and  visualizations of the data. 
 
+The bike-sharing analysis begins with a general overview, which highlights the number of rides, gender breakdown, user type and the top starting locations for rides in the month of August 2018.  The dashboard is intended to provide a brief overview of the data.
 #### General Data Overview
 ![fig1](https://github.com/retroxsky06/bikesharing/blob/main/Images/Overview.png)
 
@@ -39,17 +40,18 @@ When filtering the same heatmap by Gender, it highlights that although peak hour
 #### Trips by Weekday by Gender
 ![FIG6](https://github.com/retroxsky06/bikesharing/blob/main/Images/Trips%20by%20Gender:Hour.png)
 
-The graph below displays   
+The graph below compares the number of trips by user type (Customer vs Subscriber), Gender, and Weekday.  In the Subscriber group, males have the highest number of bike usage on the following days: Thursday, Friday, Tuesday and Monday.  Comparably, females in the subscriber group have similar trends, but a lower amount of bike usage.  
 #### User Trips by Gender by Weekday
 ![Fig7](https://github.com/retroxsky06/bikesharing/blob/main/Images/Trips%20by%20Gender:Weekday.png)
-
 
 ## Summary
 This analysis provided an opportunity to gain insight on a business prospect in Des Moines, Iowa by reviewing NYC bike-sharing data.  It was found that there were over 2 million riders in the month of August 2018, and that the majority of NYC CitiBike riders identified as Male. The data also revealed that the majority of rides began in urban and heavily populated areas. From this finding, we may deduce that bike riding may be a more accessible and attractive mode of transportation due to NYC's traffic congested streets. 
 
-Further research is needed to determine the viability of a Des Moines ride-sharing business.  
+Although CitiBike may be popular in NYC due to high traffic and various factors, Des Moines, Iowa is a different landscape, and it is not certain that a similiar business model will be successful. Further research on the Des Moines area is needed to determine the viability of a Des Moines bike-sharing business.
 
 ### Additional Suggestions
+In addition to the analysis provided, two more visualizations are suggested below to further the business proposal exploration: 
+1. 
 
 
 
