@@ -19,6 +19,9 @@ In order to create various visualizations needed for this analysis, it was neces
 
 The bike-sharing analysis begins with a [general overview](https://public.tableau.com/app/profile/vanessa.aczon/viz/BikesharingAnalysis_16326408649250/CitiBikeAnalysis?publish=yes) which highlights the number of rides, gender breakdown, user type and the top starting locations for rides in the month of August.  The dashboard is intended to provide a brief overview of the data.
 
+#### General Data Overview
+![fig1](
+
 **Bike utilization** circle plot is then shown, in which the circle size relates to how often the bike is utilized. **Checkout Times** line graph is showcased, followed by **Checkout Times by Gender** which highlights the significant difference between Male and Female ridership.
 
 ## Summary
