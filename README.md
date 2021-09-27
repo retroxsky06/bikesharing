@@ -11,13 +11,11 @@ The purpose of this project is to examine New York City's bike-sharing data (Cit
 ## Formating and Converting CitiBike Data Set
 In order to create various visualizations needed for this analysis, it was necessary to reformat the data and convert the datatype of the column "tripduration" from integer to string.  Jupyter notebook was utilized for this undertaking, and the process can be found [here](https://github.com/retroxsky06/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb).
 
-
-
 ## Results 
 
-[Click this link to view NYC CitiBike Business Proposal](https://public.tableau.com/app/profile/vanessa.aczon/viz/BikesharingAnalysis_16326408649250/CitiBikeAnalysis)
+[Click this link to view NYC CitiBike Business Proposal](https://public.tableau.com/app/profile/vanessa.aczon/viz/BikesharingAnalysis_16326408649250/CitiBikeAnalysis?publish=yes)
 
-The bike-sharing analysis begins with a [general overview](https://public.tableau.com/app/profile/vanessa.aczon/viz/BikesharingAnalysis_16326408649250/CitiBikeAnalysis?publish=yes) which highlights the number of rides, gender breakdown, user type and the top starting locations for rides in the month of August 2018.  The dashboard is intended to provide a brief overview of the data.
+This section outlines the business proposal including descriptions and data visualizations of the data. The bike-sharing analysis begins with a general overview, which highlights the number of rides, gender breakdown, user type and the top starting locations for rides in the month of August 2018.  The dashboard is intended to provide a brief overview of the data.
 
 #### General Data Overview
 ![fig1](https://github.com/retroxsky06/bikesharing/blob/main/Images/Overview.png)
@@ -33,12 +31,17 @@ The bike-sharing analysis begins with a [general overview](https://public.tablea
 #### Checkout Times by Gender
 ![fig4](https://github.com/retroxsky06/bikesharing/blob/main/Images/Checkout%20by%20Gender.png)
 
-
-
+The total **Trips by Weekday per Hour** is visualized as a heatmap. It is revealed that the majority of bike trips from Monday to Friday occur from 7am-9am and 5pm-7pm, indicating that the rentals are used around typical work and school commute times.  Whereas we notice that peak hours of bike rentals occur throughout the day over the weekend, 8am-8pm. 
 #### Trips by Weekday per Hour
 ![fig5](https://github.com/retroxsky06/bikesharing/blob/main/Images/Heatmap.png)
 
+When filtering the same heatmap by Gender, it highlights that although peak hours are similiar to the above findings, Male ridership is still higher.
+#### Trips by Weekday by Gender
+![FIG6](https://github.com/retroxsky06/bikesharing/blob/main/Images/Trips%20by%20Gender:Hour.png)
 
+The graph below displays   
+#### User Trips by Gender by Weekday
+![Fig7](https://github.com/retroxsky06/bikesharing/blob/main/Images/Trips%20by%20Gender:Weekday.png)
 
 
 ## Summary
