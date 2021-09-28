@@ -1,4 +1,4 @@
-# Bikesharing Analysis
+# Bike Sharing Analysis
 
 ## Project Overview
 The purpose of this project is to examine New York City's bike-sharing data (CitiBike) to build a visual business proposal that will determine the business prospects of creating a similar model in Des Moines, Iowa.  Tablaeu, Jupyter Notebook, and Pandas DataFrame were utilized to create visualizations, format data, and convert datatypes.
