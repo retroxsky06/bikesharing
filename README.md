@@ -50,9 +50,9 @@ This analysis provided an opportunity to gain insight on a business prospect in 
 Although CitiBike may be popular in NYC due to high traffic and various factors, Des Moines, Iowa is a different landscape, and it is not certain that a similiar business model will be successful. Further research on the Des Moines area is needed to determine the viability of a Des Moines bike-sharing business.
 
 ### Additional Suggestions
-In addition to the analysis provided, two more visualizations are suggested below to further the business proposal exploration: 
-1. 
-2. 
+In addition to the provided analysis, two more visualizations are suggested below to further the business proposal exploration: 
+- Attain additional data to discover the cost of each ride and filter by usertype as that can provide more information on trends. 
+- Compare top starting and ending locations by gender as this may determine if there is a gender gap between locations where rides start and finish.  This can attribute to possible targeted campaigning and advertisement.  
 
 
 
